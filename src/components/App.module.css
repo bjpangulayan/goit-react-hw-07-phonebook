@@ -17,7 +17,7 @@
   }
   
   body {
-    background-color: rgb(254, 152, 186);
+    background-color: #0d46c0;
     text-align: ce;
   }
   
@@ -31,16 +31,16 @@
   button {
     margin-top: 10px;
     border-radius: 10%;
-    border-color: violet;
+    border-color:#0d46c0;
   }
   
   h1 {
     text-align: center;
-    color: #9c06d7;
+    color: #0d70c0;
   }
   
   h2 {
-    color: #a807de;
+    color: #000000;
     text-align: center;
   }
   
@@ -55,7 +55,7 @@
   .resetButton {
     margin-bottom: 20px;
     padding: 10px 20px;
-    background-color: #661d66;
+    background-color: rgb(22, 120, 185);
     color: white;
     border: none;
     border-radius: 5px;
