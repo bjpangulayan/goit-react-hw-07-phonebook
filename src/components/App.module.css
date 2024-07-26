@@ -24,8 +24,8 @@
   label {
     font-style: oblique;
     font-weight: bold;
-    filter: grayscale(100%) invert(12%) sepia(100%) saturate(1000%)
-      hue-rotate(10deg);
+    /* filter: grayscale(100%) invert(12%) sepia(100%) saturate(1000%)
+      hue-rotate(10deg); */
   }
   
   button {
@@ -36,7 +36,7 @@
   
   h1 {
     text-align: center;
-    color: #0d70c0;
+    color: #000000;
   }
   
   h2 {
